@@ -7,11 +7,9 @@
 # 다양한 시선으로 문제를 발견하고,
 # 사용자 경험으로 해결하는 디자이너
 
-### **UI/UX Designer · Front-End Developer**
 
 사용자의 작은 불편함을 발견하고  
-디자인과 개발을 연결하여 더 나은 경험을 만드는 것을 좋아합니다.
-
+디자인과 개발을 연결하여 더 나은 경험을 만드는 디자이로 발전해 나가고 싶습니다.
 <br>
 
 <a href="https://jw123123.github.io/portfolio/">
@@ -34,79 +32,29 @@
 Name:        최지원
 
 Role:        UI/UX Designer
-             Front-End Developer
+             Web designer     
+             web publisher
 
-Focus:       User Experience
-             Responsive Web
-             Motion Interaction
+Focus:        사용자 경험
+              반응형 웹
+              모션 인터랙션
 
-Working with:
-             HTML
-             CSS
-             JavaScript
-             React
+Working with:        HTML
+                     CSS
+                     JavaScript
+                     React
 
-Goal:
-             디자인과 개발의 경계를 연결하는
-             사용자 경험 디자이너
 ```
 
 ---
 
-# Design Philosophy
+# 🚀 Featured Projects
 
-> **"좋은 디자인은 아름다운 화면이 아니라,  
-사용자가 목적을 가장 쉽고 자연스럽게 달성하도록 돕는 경험입니다."**
-
-저는 사용자의 행동을 관찰하고 문제를 발견한 뒤
-
-✔ UX를 설계하고
-
-✔ 인터페이스를 디자인하며
-
-✔ React로 직접 구현하는 과정을 즐깁니다.
-
----
-
-# Featured Projects
-
-## 🎨 Canon Korea Redesign
-
-> 브랜드 아이덴티티를 유지하면서
-> 사용자 중심으로 정보 구조와 인터랙션을 개선한 리디자인
-
-```
-HTML
-CSS
-JavaScript
-```
-
----
-
-## 🚗 K Car Redesign
-
-> 자동차 구매 과정의 복잡한 흐름을
-> 직관적인 UX로 개선한 반응형 웹 프로젝트
-
-```
-React
-CSS
-GSAP
-Responsive Web
-```
-
----
-
-## 🏢 POSCO E&C Redesign
-
-> 기업 브랜드 신뢰감을 유지하면서
-> 정보 전달력을 강화한 웹사이트 리디자인
-
-```
-React
-JavaScript
-CSS
-```
+| Project | Summary | Tech | Links |
+|----------|---------|------|-------|
+| **🎨 Canon Korea** | 정보 구조와 UX를 개선한 기업 웹 리디자인 | `HTML` `CSS` `JavaScript` | [Repo]() · [Live]() |
+| **🚗 K Car** | 자동차 구매 경험을 개선한 반응형 웹 프로젝트 | `React` `GSAP` | [Repo]() · [Live]() |
+| **🏗️ Seongnam Garden** | 브랜드 경험을 강화한 웹 리디자인 프로젝트 | `React` `JavaScript` | [Repo]() · [Live]() |
 
 ---
 
@@ -162,26 +110,6 @@ CSS
 
 🌱 Web Accessibility
 
-🌱 Performance Optimization
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jw123123&theme=github-compact&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jw123123&theme=flat&no-frame=true&column=4"/>
-
-</div>
-
 ---
 
 # Portfolio
@@ -191,16 +119,8 @@ CSS
 ## 🌐
 ### https://jw123123.github.io/portfolio/
 
-기획부터
-
-UX 설계
-
-UI 디자인
-
-Publishing
-
-React 개발까지
-
+기획부터 UX 설계 UI 디자인 
+Publishing 개발까지
 직접 제작한 프로젝트를 담았습니다.
 
 </div>
@@ -208,8 +128,6 @@ React 개발까지
 ---
 
 <div align="center">
-
-### "Design for People, Build for Experience."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=443025"/>
 
