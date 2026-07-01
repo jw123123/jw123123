@@ -185,6 +185,7 @@ CSS
 </div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuraghazra&theme=github_dark" width="100%">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=jw123123&theme=flat&no-frame=true&column=4"/>
 
 ---
 
