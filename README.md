@@ -169,23 +169,10 @@ CSS
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jw123123&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw123123&layout=compact&theme=transparent&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jw123123&theme=github-compact&hide_border=true"/>
 </div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
-
-</div>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuraghazra&theme=github_dark" width="100%">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=jw123123&theme=flat&no-frame=true&column=4"/>
 
 ---
 
