@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=D6936A&text=Welcome%20to%20Jiwon%27s%20GitHub!&fontColor=ffffff&fontSize=60&animation=fadeIn&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=F99052&text=Welcome%20to%20Jiwon%27s%20GitHub!&fontColor=ffffff&fontSize=60&animation=fadeIn&descAlignY=68"/>
 
 <br>
 
@@ -113,6 +113,6 @@ Tech:
 
 ### Thanks for visiting 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=443025"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=F99052"/>
 
 </div>
