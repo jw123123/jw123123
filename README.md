@@ -170,9 +170,9 @@ CSS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jw123123&show_icons=true&hide_border=true&theme=transparent"/>
+<img src="https://streak-stats.demolab.com?user=jw123123&theme=github-dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw123123&layout=compact&hide_border=true&theme=transparent"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jw123123&theme=github-dark&hide_border=true"/>
 
 </div>
 
