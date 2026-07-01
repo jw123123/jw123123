@@ -166,15 +166,25 @@ CSS
 
 ---
 
-# GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jw123123&theme=github-dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jw123123&theme=github-dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+
+</div>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuraghazra&theme=github_dark" width="100%">
 
 ---
 
