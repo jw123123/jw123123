@@ -1,11 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=443025&text=JIWON%20CHOI&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Welcome%20to%20Jiwon%27s%20GitHub&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=443025&text=Welcome%20to%20Jiwon%27s%20GitHub&fontColor=ffffff&fontSize=60&animation=fadeIn&descAlignY=68"/>
 
 <br><br>
 
-다양한 시선으로 사용자의 작은 불편함을 발견하고, 
+<h3>
+다양한 시선으로 사용자의 작은 불편함을 발견하고,<br>
 디자인과 개발을 연결하여 더 나은 사용자 경험을 만드는 디자이너 최지원입니다.
+</h3>
 
 <br>
 
@@ -30,11 +32,11 @@ Profile:
   - Web Publisher
 
 Focus:
-  - User Experience
-  - Responsive Web
-  - Motion Interaction
+  - 사용자 경험
+  - 반응형 웹
+  - 모션 인터랙션
 
-Development:
+Tech:
   - HTML
   - CSS
   - JavaScript
@@ -108,6 +110,8 @@ Development:
 ---
 
 <div align="center">
+
+### Thanks for visiting 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=443025"/>
 
