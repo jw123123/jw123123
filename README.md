@@ -1,15 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=443025&text=JIWON%20CHOI&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=UI/UX%20Designer%20%7C%20Front-End%20Developer&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=443025&text=JIWON%20CHOI&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Welcome Jiwon's Github&descAlignY=68"/>
 
 <br><br>
 
-# 다양한 시선으로 문제를 발견하고,
-# 사용자 경험으로 해결하는 디자이너
+다양한 시선으로 사용자의 작은 불편함을 발견하고,
+디자인과 개발을 연결하여 더 나은 경험을 만드는 디자이너 최지원 입니다
 
-
-사용자의 작은 불편함을 발견하고  
-디자인과 개발을 연결하여 더 나은 경험을 만드는 디자이로 발전해 나가고 싶습니다.
 <br>
 
 <a href="https://jw123123.github.io/portfolio/">
@@ -27,20 +24,18 @@
 # About Me
 
 ```yaml
-Name:        최지원
+Role:      UI/UX Designer
+           Web designer
+           web publisher
 
-Role:        UI/UX Designer
-             Web designer     
-             web publisher
+Focus:      사용자 경험
+            반응형 웹
+            모션 인터랙션
 
-Focus:        사용자 경험
-              반응형 웹
-              모션 인터랙션
-
-Working with:        HTML
-                     CSS
-                     JavaScript
-                     React
+Working with:      HTML
+                   CSS
+                   JavaScript
+                   React
 
 ```
 
@@ -64,6 +59,8 @@ Working with:        HTML
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
 </p>
 
 ### 💻 Development
