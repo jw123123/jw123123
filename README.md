@@ -50,9 +50,9 @@ Tech:
 
 | Project | Summary | Tech | Links |
 |----------|---------|------|-------|
-| **🏗️ Seongnam Garden** | 브랜드 경험을 강화한 웹 리디자인 프로젝트 | `React` `HTML` `CSS` `JavaScript` | [Repo](https://github.com/jw123123/garden) · [Live](https://jw123123.github.io/garden/) |
-| **🚗 K Car** | 자동차 구매 경험을 개선한 반응형 웹 프로젝트 | `HTML` `CSS` `JavaScript` `jQuery` | [Repo](https://github.com/jw123123/k-car) · [Live](https://jw123123.github.io/k-car/) |
-| **🎨 Canon Korea** | 정보 구조와 UX를 개선한 기업 웹 리디자인 | `HTML` `CSS` `JavaScript` `jQuery` | [Repo](https://github.com/jw123123/canon) · [Live](https://jw123123.github.io/canon/) |
+| **Seongnam Garden** | 브랜드 경험을 강화한 웹 리디자인 프로젝트 | `React` `HTML` `CSS` `JavaScript` | [Repo](https://github.com/jw123123/garden) · [Live](https://jw123123.github.io/garden/) |
+| **K Car** | 자동차 구매 경험을 개선한 반응형 웹 프로젝트 | `HTML` `CSS` `JavaScript` `jQuery` | [Repo](https://github.com/jw123123/k-car) · [Live](https://jw123123.github.io/k-car/) |
+| **Canon Korea** | 정보 구조와 UX를 개선한 기업 웹 리디자인 | `HTML` `CSS` `JavaScript` `jQuery` | [Repo](https://github.com/jw123123/canon) · [Live](https://jw123123.github.io/canon/) |
 
 ---
 
