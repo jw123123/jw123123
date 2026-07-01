@@ -58,43 +58,39 @@ Working with:        HTML
 
 # Skills
 
-### Design
+### 🎨Design
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=figma"/>
-
 <img src="https://skillicons.dev/icons?i=ps"/>
-
 <img src="https://skillicons.dev/icons?i=ai"/>
-
 </p>
 
-### Front-End
+### 💻 Development
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html"/>
-
 <img src="https://skillicons.dev/icons?i=css"/>
-
 <img src="https://skillicons.dev/icons?i=javascript"/>
-
 <img src="https://skillicons.dev/icons?i=react"/>
-
 </p>
 
 ### Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git"/>
-
 <img src="https://skillicons.dev/icons?i=github"/>
-
 <img src="https://skillicons.dev/icons?i=vscode"/>
-
 </p>
+
+### 🤖 AI Tools
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
 
 ---
 
@@ -107,21 +103,6 @@ Working with:        HTML
 🌱 Motion UI
 
 🌱 Web Accessibility
-
----
-
-# Portfolio
-
-<div align="center">
-
-## 🌐
-### https://jw123123.github.io/portfolio/
-
-기획부터 UX 설계 UI 디자인 
-Publishing 개발까지
-직접 제작한 프로젝트를 담았습니다.
-
-</div>
 
 ---
 
