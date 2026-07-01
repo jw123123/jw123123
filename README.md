@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=443025&text=JIWON%20CHOI&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Welcome Jiwon's Github&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=443025&text=JIWON%20CHOI&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Welcome%20to%20Jiwon%27s%20GitHub&descAlignY=68"/>
 
 <br><br>
 
-다양한 시선으로 사용자의 작은 불편함을 발견하고,
-디자인과 개발을 연결하여 더 나은 경험을 만드는 디자이너 최지원 입니다
+다양한 시선으로 사용자의 작은 불편함을 발견하고, 
+디자인과 개발을 연결하여 더 나은 사용자 경험을 만드는 디자이너 최지원입니다.
 
 <br>
 
@@ -14,7 +14,7 @@
 </a>
 
 <a href="mailto:miso26413@email.com">
-<img src="https://img.shields.io/badge/miso26413@email.com-F99052?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-F99052?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -24,18 +24,21 @@
 # About Me
 
 ```yaml
-Role:      UI/UX Designer
-           Web designer
-           web publisher
+Profile:
+  - UI/UX Designer
+  - Web Designer
+  - Web Publisher
 
-Focus:      사용자 경험
-            반응형 웹
-            모션 인터랙션
+Focus:
+  - User Experience
+  - Responsive Web
+  - Motion Interaction
 
-Working with:      HTML
-                   CSS
-                   JavaScript
-                   React
+Development:
+  - HTML
+  - CSS
+  - JavaScript
+  - React
 
 ```
 
@@ -45,9 +48,9 @@ Working with:      HTML
 
 | Project | Summary | Tech | Links |
 |----------|---------|------|-------|
-| **🏗️ Seongnam Garden** | 브랜드 경험을 강화한 웹 리디자인 프로젝트 | `React` `JavaScript` | [Repo](https://github.com/jw123123/garden) · [Live](https://jw123123.github.io/garden/) |
-| **🚗 K Car** | 자동차 구매 경험을 개선한 반응형 웹 프로젝트 | `React` `GSAP` | [Repo](https://github.com/jw123123/k-car) · [Live](https://jw123123.github.io/k-car/) |
-| **🎨 Canon Korea** | 정보 구조와 UX를 개선한 기업 웹 리디자인 | `HTML` `CSS` `JavaScript` | [Repo](https://github.com/jw123123/canon) · [Live](https://jw123123.github.io/canon/) |
+| **🏗️ Seongnam Garden** | 브랜드 경험을 강화한 웹 리디자인 프로젝트 | `React` `HTML` `CSS` `JavaScript` | [Repo](https://github.com/jw123123/garden) · [Live](https://jw123123.github.io/garden/) |
+| **🚗 K Car** | 자동차 구매 경험을 개선한 반응형 웹 프로젝트 | `HTML` `CSS` `JavaScript` `jQuery` | [Repo](https://github.com/jw123123/k-car) · [Live](https://jw123123.github.io/k-car/) |
+| **🎨 Canon Korea** | 정보 구조와 UX를 개선한 기업 웹 리디자인 | `HTML` `CSS` `JavaScript` `jQuery` | [Repo](https://github.com/jw123123/canon) · [Live](https://jw123123.github.io/canon/) |
 
 ---
 
@@ -73,14 +76,6 @@ Working with:      HTML
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### 🔧 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
 ### 🤖 AI Tools
 
 <p>
@@ -89,17 +84,26 @@ Working with:      HTML
   <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+
 ---
 
-# Currently Learning
+## 💡 Core Strengths
 
-🌱 React
+✔ 디자인부터 퍼블리싱까지 직접 구현
 
-🌱 GSAP
+✔ 반응형 웹과 인터랙션을 고려한 UI 구현
 
-🌱 Motion UI
+✔ 사용자 중심 UX 설계
 
-🌱 Web Accessibility
+✔ AI를 활용한 효율적인 디자인 및 개발 워크플로우
 
 ---
 
