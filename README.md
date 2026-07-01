@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome Jiwon's Github!&fontSize=90" />
 ## Hi there 👋
 
 <a href="mailto:miso26413@gmail.com" target="_blank">
@@ -25,7 +24,7 @@
 <img src="https://img.shields.io/badge/Claude Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw123123&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw_berry9&show_icons=true&theme=radical)
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=f99052&height=180&text=Welcom%20Jiwon's%20Github!&animation=&fontColor=2b1b12&fontSize=60" />
@@ -36,7 +35,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=jw123123&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw123123&layout=compact&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw_berry9&layout=compact&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
     
