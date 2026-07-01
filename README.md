@@ -4,10 +4,10 @@
 
 <br>
 
-<h2>
+<h3>
 다양한 시선으로 사용자의 작은 불편함을 발견하고,<br>
 디자인과 개발을 연결하여 더 나은 사용자 경험을 만드는 디자이너 최지원입니다.
-</h2>
+</h3>
 
 <br>
 
@@ -23,7 +23,7 @@
 
 ---
 
-# 👤 About Me
+# 💡 About Me
 
 ```yaml
 Profile:
@@ -56,7 +56,7 @@ Tech:
 
 ---
 
-# Skills
+# 🛠 Skills
 
 ### 🎨 Design
 
@@ -97,7 +97,7 @@ Tech:
 
 ---
 
-## 💡 Core Strengths
+## ✨ Core Strengths
 
 ✔ 디자인부터 퍼블리싱까지 직접 구현
 
