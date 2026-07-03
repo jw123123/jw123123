@@ -11,7 +11,7 @@
 
 <br>
 
-<a href="https://jw123123.github.io/portfolio/" target="_blank">
+<a href="https://jw123123.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-443025?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
