@@ -112,6 +112,4 @@ Tech:
 
 ### Thanks for visiting 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=F99052"/>
-
 </div>
