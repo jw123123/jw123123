@@ -23,39 +23,6 @@
 
 ---
 
-# 💡 About Me
-
-```yaml
-Profile:
-  - UI/UX Designer
-  - Web Designer
-  - Web Publisher
-
-Focus:
-  - 사용자 경험
-  - 반응형 웹
-  - 모션 인터랙션
-
-Tech:
-  - HTML
-  - CSS
-  - JavaScript
-  - React
-
-```
-
----
-
-# 🚀 Featured Projects
-
-| Project | Summary | Tech | Links |
-|----------|---------|------|-------|
-| **Seongnam Garden** | 브랜드 경험을 강화한 웹 리디자인 프로젝트 | `React` `HTML` `CSS` `JavaScript` | [Repo](https://github.com/jw123123/garden) · [Live](https://jw123123.github.io/garden/) |
-| **K Car** | 자동차 구매 경험을 개선한 반응형 웹 프로젝트 | `HTML` `CSS` `JavaScript` `jQuery` | [Repo](https://github.com/jw123123/k-car) · [Live](https://jw123123.github.io/k-car/) |
-| **Canon Korea** | 정보 구조와 UX를 개선한 기업 웹 리디자인 | `HTML` `CSS` `JavaScript` `jQuery` | [Repo](https://github.com/jw123123/canon) · [Live](https://jw123123.github.io/canon/) |
-
----
-
 # 🛠 Skills
 
 ### 🎨 Design
@@ -94,6 +61,38 @@ Tech:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
+---
+
+# 💡 About Me
+
+```yaml
+Profile:
+  - UI/UX Designer
+  - Web Designer
+  - Web Publisher
+
+Focus:
+  - 사용자 경험
+  - 반응형 웹
+  - 모션 인터랙션
+
+Tech:
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+
+```
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Summary | Tech | Links |
+|----------|---------|------|-------|
+| **Seongnam Garden** | 브랜드 경험을 강화한 웹 리디자인 프로젝트 | `React` `HTML` `CSS` `JavaScript` | [Repo](https://github.com/jw123123/garden) · [Live](https://jw123123.github.io/garden/) |
+| **K Car** | 자동차 구매 경험을 개선한 반응형 웹 프로젝트 | `HTML` `CSS` `JavaScript` `jQuery` | [Repo](https://github.com/jw123123/k-car) · [Live](https://jw123123.github.io/k-car/) |
+| **Canon Korea** | 정보 구조와 UX를 개선한 기업 웹 리디자인 | `HTML` `CSS` `JavaScript` `jQuery` | [Repo](https://github.com/jw123123/canon) · [Live](https://jw123123.github.io/canon/) |
 
 ---
 
